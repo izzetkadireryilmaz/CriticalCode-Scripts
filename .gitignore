@@ -1,0 +1,16 @@
+# Meta dosyalarını dışla (Unity)
+*.meta
+
+# Geçici sistem dosyalarını dışla
+.DS_Store
+Thumbs.db
+
+# VSCode veya Rider gibi editörler için
+.vscode/
+.idea/
+
+# Derleme çıktıları (eğer build eden olursa)
+*.dll
+*.exe
+*.obj
+*.log
