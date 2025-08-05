@@ -39,7 +39,7 @@ Bu repo, sadece Unity için yazılmış **C# scriptlerini** içerir. Oyun görse
 
 Bu oyun **İzzet Kadir "Izkaer" Eryılmaz** tarafından geliştirilmiştir.
 
-- 🌐 Web: [izkaer.com/criticalcode](https://www.izkaer.com)
+- 🌐 Web: [izkaer.com/criticalcode](https://www.izkaer.com/criticalcode)
 - 📧 Mail: izzetkadireryilmaz@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/izzetkadireryilmaz/](#)
 - 🐙 GitHub: [github.com/izzetkadireryilmaz](#)
